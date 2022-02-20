@@ -1,3 +1,3 @@
 User-agent: *
-Sitemap: https://gyeolhan.github.io/sitemap/sitemap-index.xml
-Host: https://gyeolhan.github.io
+Sitemap: https://www.zoomkoding.com/sitemap/sitemap-index.xml
+Host: https://www.zoomkoding.com
